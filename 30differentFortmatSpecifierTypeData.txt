@@ -1,0 +1,8 @@
+#include <stdio.h>
+
+int main() {
+	float monNombreFlottant = 7.89; // Nombre à virgule flottante / Floating point number
+
+	printf("%f", monNombreFlottant);
+	return 0;
+}
