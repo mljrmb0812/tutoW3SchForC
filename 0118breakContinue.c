@@ -1,13 +1,13 @@
 #include <stdio.h>
 
 int main() {
-	int aMour;
+	int variable;
 
-	for (aMour = 2; aMour > -256; aMour--) {
-		if (aMour == -102) {
+	for (variable = 2; variable > -256; variable--) {
+		if (variable == -102) {
 			break;
 		}
-	printf("%d\n", aMour);
+	printf("%d\n", variable);
 	}
 	
 	return 0;
