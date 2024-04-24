@@ -1,0 +1,15 @@
+#include <stdio.h>
+
+// Create a function
+// Créer une fonction
+void printfMultiple() {
+	printf("Arbalète\n");
+	printf("Ciseaux\n");
+}
+
+int main() {
+	printfMultiple();
+	printfMultiple();
+	printfMultiple();
+	return 0;
+}
