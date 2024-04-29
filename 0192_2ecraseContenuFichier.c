@@ -5,7 +5,7 @@ int main() {
 
     // Open a file in writing mode
     // Ouvrir un fichier en mode écriture
-    fptr = fopen("C:\\cheminDuFichier\\nomDuFichier.txt", "w");
+    fptr = fopen("C:\\cheminDuFichier\\nomDuFichierDéjàOuvert.txt", "w");
 
     // Write some text to the file
     // Ecrire un peu de texte dans le fichier
